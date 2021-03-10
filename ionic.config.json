@@ -1,6 +1,8 @@
 {
   "name": "percobaan",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
-  "id": "f3ca82f8"
+  "id": "685c84d7"
 }
